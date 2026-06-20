@@ -1,2 +1,2 @@
-# open-jam
+# OpenJam
 Strudel REPL - Quick Setup
